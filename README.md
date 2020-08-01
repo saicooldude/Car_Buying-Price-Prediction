@@ -8,4 +8,5 @@
   <li>Seaborn</li>
   <li>Tensorflow Docs "!pip install -q git+https://github.com/tensorflow/docs"</li>
   <li>Sklearn</li>
+  <li>Matplotlib</li>
 </ul>
